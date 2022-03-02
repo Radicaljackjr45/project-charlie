@@ -1,0 +1,12 @@
+C:\Users\punfu\source\repos\project 3\project 3\bin\Debug\project 3.exe.config
+C:\Users\punfu\source\repos\project 3\project 3\bin\Debug\project 3.exe
+C:\Users\punfu\source\repos\project 3\project 3\bin\Debug\project 3.pdb
+C:\Users\punfu\source\repos\project 3\project 3\obj\Debug\project 3.csproj.AssemblyReference.cache
+C:\Users\punfu\source\repos\project 3\project 3\obj\Debug\project 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\punfu\source\repos\project 3\project 3\obj\Debug\project_3.Form1.resources
+C:\Users\punfu\source\repos\project 3\project 3\obj\Debug\project_3.Properties.Resources.resources
+C:\Users\punfu\source\repos\project 3\project 3\obj\Debug\project 3.csproj.GenerateResource.cache
+C:\Users\punfu\source\repos\project 3\project 3\obj\Debug\project 3.csproj.CoreCompileInputs.cache
+C:\Users\punfu\source\repos\project 3\project 3\obj\Debug\project 3.exe
+C:\Users\punfu\source\repos\project 3\project 3\obj\Debug\project 3.pdb
+C:\Users\punfu\source\repos\project 3\project 3\obj\Debug\project_3.Form2.resources
